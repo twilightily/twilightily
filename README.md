@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Twilight
+- 💫 CSE Major
+- 🫧 Currently super interested in UI/UX, worked with tkinter before and discovering flutter, streamlit etc.
+- ⛅️ Also looking into machine learning and it's applications with libraries like scikit-lab
+- 🐶 Fun fact : I love dogs! (First ever repo Bailey's Bakery is dedicated to my own!)
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **twilightily/twilightily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
