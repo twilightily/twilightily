@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Twilight
-- 💫 CSE Major
 - 🫧 Currently super interested in UI/UX, worked with tkinter before and discovering flutter, streamlit etc.
 - ⛅️ Also looking into machine learning and it's applications with libraries like scikit-lab
 - 🐶 Fun fact : I love dogs! (First ever repo Bailey's Bakery is dedicated to my own!)
